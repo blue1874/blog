@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+title: Loniclue Blog
+SEOTitle: 布鲁博客 | Loniclue Blog
+header-img: img/home-bg-02.jpg
+email: bluelizhijian@gmail.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://ykkskl.top"              # your host, for absolute URL
+baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -14,9 +14,9 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     huxpro
 zhihu_username:     huxpro
-github_username:    huxpro
+github_username:    blue1984
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -58,7 +58,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 
 # Analytics settings
-# Baidu Analytics
+# Baidu sAnalytics
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "多玩玩，多走走，感受这有趣的世界"
+sidebar-avatar: /img/kaiete.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,8 +82,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "Backup Site",
+        href: "http://ykkskl.top"
     },{
         title: "Foo",
         href: "#"
