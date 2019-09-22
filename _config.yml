@@ -5,7 +5,7 @@ header-img: img/home-bg-02.jpg
 email: bluelizhijian@gmail.com
 description: ""
 keyword: ""
-url: "http://ykkskl.top"              # your host, for absolute URL
+url: "http://blog.ykkskl.top"              # your host, for absolute URL
 baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
