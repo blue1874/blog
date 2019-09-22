@@ -1,20 +1,20 @@
 # Site settings
 title: Loniclue Blog
 SEOTitle: 布鲁博客 | Loniclue Blog
-header-img: img/home-bg-02.jpg
+header-img: img/header/home-bg.jpg
 email: bluelizhijian@gmail.com
 description: ""
 keyword: ""
-url: "http://ykkskl.top"              # your host, for absolute URL
+url: "http://blog.ykkskl.top"              # your host, for absolute URL
 baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    blue1984
+weibo_username:     blue
+zhihu_username:     blue1984
+github_username:    blue1874
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
