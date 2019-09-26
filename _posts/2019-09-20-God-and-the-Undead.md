@@ -11,13 +11,31 @@ tags:
   - Game
   - Metroidvania
 ---
+	
+<blockquote><p align="center">In the Age of Ancients,
+The world was unformed, shrouded by fog.
+A land of grey crags, archtrees, and everlasting dragons.<br>
+But then there was Fire
+And with Fire came Disparity. Heat and cold, life and death, and of course.. Light and Dark.  <br>
+Then, from the Dark, They came.
+And found the Souls of Lords within the flame.  <br>
+Nito, the first of the dead.
+The Witch of Izalith, and her daughters of chaos.
+Gwyn, the Lord of Sunlight, and his faithful knights.
+And the furtive pygmy, so easily forgotten...  <br>
+With the Strength of Lords, they challenged the dragons.  <br>
+Gwyn's mighty bolts peeled apart their stone scales.
+The witches weaved great firestorms.
+Nito unleashed a miasma of death and disease.  <br>
+And Seath the Scaleless betrayed his own, and the dragons were no more.
+Thus began the Age of Fire.  <br>
+But soon, the flames will fade, and only Dark will remain.  <br>
+Even now, there are only embers, and man sees not light, but only endless nights.
+And amongst the living are seen, carriers of the accursed Darksign.</p>
+</blockquote>
 
-> 在遥远的上古时代，世界还是未分化的状态，而这只有灰色的岩石和参天的巨树的世界里的一切都笼罩在一片大雾之中。不朽的古龙，是上古世界的霸者。他们有着岩石般的鳞片与近乎永恒的不朽生命，无人知晓古龙统治的上古世界经过了多少岁月。  
->但这一切，随着最初之火的出现而走向终结，世界也因此迎来新的时代……不知何时，在大雾笼罩的世界中诞生了“最初之火”。火给世界带来了分化与差异。有温暖，就有寒冷；有生命，就有死亡；同样的，有光明，就有黑暗。而在黑暗中，诞生了新的存在。他们受到了火的吸引，并在火之中得到了王之灵魂。  
-> 他们是：  
-> 最初的死者，尼特  
-> 伊萨里斯的魔女与混沌的女儿们  
-> 太阳光之王葛温和他的骑士们  
-> 以及，被遗忘的小人……  
-> 他们得到了王之力量，挑起了与支配者古龙们的战争。葛温的雷电贯穿了石之鳞；魔女的火焰成为风暴；尼特释放出死之瘴气……而随着无鳞的白龙——希斯的背叛，古龙终于被击败了。从此，世界迎来了火之时代。  
-> 而那个获得第四个王之魂的小人，没人知道他获得了怎样的力量，仿佛不曾存在过一样被彻底的遗忘了。但就像上古时代与不朽的古龙也会迎来终结一样，火终有熄灭之日，而到了那时，留下的将只有黑暗……  
+
+上面是黑暗之魂初代开场CG动画里面的台词。这段话对黑魂世界所处的世界给出了一些描述。（实际上，这也是整个游戏里面唯一对世界观进行直接说明的文本。）
+世界上有古龙，是不朽的存在和力量的化身。初火孕育了诸神，并与古龙发生了战争。葛温战胜统治世界的古龙，建立火之时代。我们至少会注意到三个比较关键的元素：古龙，初火，诸神。
+古龙在黑魂的世界中虽然是十分神秘古老的角色，但在游戏剧情里内却少有参与，更多的是作为一个旁观者、见证者的身份存在。
+`在魂一还存在着至少两条条古龙：白龙希斯，黑龙，他们的戏份还算多，而到了二代，卫龙巢穴漫天飞龙，却仅有一条古龙，还是安迪尔人工催生出来的。三代古龙全然不见踪影，
