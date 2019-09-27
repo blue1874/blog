@@ -44,7 +44,8 @@ markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
+#post settings
+future: true
 
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
