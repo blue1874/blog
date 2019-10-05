@@ -4,7 +4,7 @@ title: "God and the Undead"
 subtitle: "Dark Souls series experience"
 date: 2019-09-20 11:00:00
 author: "Loniclue"
-header-img: "img/in-post/2019-9-20-God-and-the-Undead/dark-souls.jpg"
+header-img: "img/in-post/2019-09-20-God-and-the-Undead/dark-souls.jpg"
 catalog: true
 tags: 
   - Dark Souls
@@ -36,6 +36,7 @@ And amongst the living are seen, carriers of the accursed Darksign.</p>
 
 
 上面是黑暗之魂初代开场CG动画里面的台词。这段话对黑魂世界所处的世界给出了一些描述。（实际上，这也是整个游戏里面唯一对世界观进行直接说明的文本。）
-世界上有古龙，是不朽的存在和力量的化身。初火孕育了诸神，并与古龙发生了战争。葛温战胜统治世界的古龙，建立火之时代。我们至少会注意到三个比较关键的元素：古龙，初火，诸神。
-古龙在黑魂的世界中虽然是十分神秘古老的角色，但在游戏剧情里内却少有参与，更多的是作为一个旁观者、见证者的身份存在。
-`在魂一还存在着至少两条条古龙：白龙希斯，黑龙，他们的戏份还算多，而到了二代，卫龙巢穴漫天飞龙，却仅有一条古龙，还是安迪尔人工催生出来的。三代古龙全然不见踪影，
+世界上有古龙，是不朽的存在和力量的化身。初火孕育了诸神，并与古龙发生了战争。葛温战胜统治世界的古龙，建立火之时代。我们至少会注意到三个比较关键的元素：古龙，初火，诸神。  
+
+#待填坑中
+
