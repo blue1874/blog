@@ -46,6 +46,7 @@ kramdown:
 
 #post settings
 future: true
+timezone: Asia/Shanghai
 
 # Disqus settings
 #disqus_username: _your_disqus_short_name_

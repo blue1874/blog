@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "他和她们的愿望"
+title: "Their wishes"
 subtitle: "不说出口也能理解、弃之不顾也不会崩坏"
-date: 2019-10-15 18:00:00
+date: 2019-10-15 18:00:00 Asia/Shanghai
 author: "Loniclue"
-header-img: "img/in-post/2019-10-15-他和她们的愿望/OpenGL-logo.jpg"
+header-img: "img/in-post/2019-10-15-Their-wishes/header.jpeg"
 catalog: true
 tags: 
   - 轻小说
