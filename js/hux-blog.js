@@ -59,6 +59,8 @@ jQuery(document).ready(function($) {
                     $('.navbar-custom').removeClass('is-visible');
                     if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) $('.navbar-custom').addClass('is-fixed');
                 }
+                var introHeight = $(".intro-header .container").height();
+                currentTop > introHeight ? $(".side-catalog").addClass("fixed") : $(".side-catalog").removeClass("fixed");
                 this.previousTop = currentTop;
             });
     }
