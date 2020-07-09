@@ -5,8 +5,8 @@ header-img: img/header/home-bg.jpg
 email: bluelizhijian@gmail.com
 description: "软工在读本科生，泛ACG爱好者，游戏宅，图形编程"
 keyword: ""
-url: "http://veritas1984.gitee.io/blog/"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://blue1874.github.io/blog/"              # your host, for absolute URL
+baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -71,7 +71,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "软工在读本科生，泛ACG爱好者，游戏宅，图形编程"
-sidebar-avatar: blog/img/kaiete.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/kaiete.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
