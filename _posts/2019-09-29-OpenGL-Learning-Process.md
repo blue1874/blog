@@ -27,19 +27,19 @@ __visual studio 2017, cmake, freeGLUT__
 ## 流程  
 
 - [下载freeGLUT][]  
-![](/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut.png)
+![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut.png)
 - 将获得的压缩包解压  
 - 使用[cmake][]生成项目文件  
-![](/img\in-post\2019-09-29-OpenGL-Learning-Process\cmake.png)
+![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\cmake.png)
 - 使用vs编译该项目,debug和release都运行一次  
-![](/img\in-post\2019-09-29-OpenGL-Learning-Process\vs.png)
+![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\vs.png)
 - 将所需库文件拷贝至vs目录下
 	- 将项目文件的lib目录下的`glut.lib`函数库复制到vs文件目录的lib文件夹下 `\VC\lib`
-	![](/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut_lib.png)
+	![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut_lib.png)
 	- 将`glut.dll`动态库文件放到操作系统目录下面的`C:\Windows\SysWOW64（64位系统）`  
-	![](/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut_dll.png)
+	![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\freeglut_dll.png)
 	- 将解压得到的`glut.h`等头文件复制到如下目录下：`\VC\include\GL `, 提示：如果在incluce目录下没有GL文件夹,则需要手动创建。  
-	![](/img\in-post\2019-09-29-OpenGL-Learning-Process\include.png)
+	![](/blog/img\in-post\2019-09-29-OpenGL-Learning-Process\include.png)
 
 ## 使用  
  
@@ -53,7 +53,7 @@ __visual studio 2017, cmake, freeGLUT__
 
 ## model pineline
 三维模型的坐标经一系列变换映射到显示设备坐标的过程。如图所示。
-![](\img\in-post\2019-09-29-OpenGL-Learning-Process\coordinate_systems.png)  
+![](blog\img\in-post\2019-09-29-OpenGL-Learning-Process\coordinate_systems.png)  
 重点记录几个变换矩阵的推导与理解
 
 设某点$$P(x,y,z,1)$$,其中$$1$$为齐次坐标,有变换后的点$$P'^T=MP^T$$,其中$$M$$为变换矩阵。
@@ -69,7 +69,7 @@ __visual studio 2017, cmake, freeGLUT__
 - rotate, 旋转变换  
 	旋转我们一般认为是绕着定轴旋转,而根据给定定轴的不同矩阵的形式会变得很复杂,这里我们先从最简单的坐标轴开始推导,再推广到一般情况。
 	设物体绕着y轴顺时针旋转θ角度（OpenGL中y轴为上下方向的轴,z轴为前后方向）。  
-	![](/img/in-post/2019-09-29-OpenGL-Learning-Process/rotate_y.png)
+	![](/blog/img/in-post/2019-09-29-OpenGL-Learning-Process/rotate_y.png)
 	有 $$sin(α)=y/r$$ 以及 $$sin(α-θ)=y'/r$$ 
 	利用 $$sin(α-θ)=sin(α)cos(θ)-cos(α)sin(θ)$$ ,得到 $$y'=ycos(θ)-asin(θ)$$ ,同理 $$a'=asin(θ)+ycos(θ)$$ ,可以导出变换矩阵  
 	$$M = \begin{bmatrix}
@@ -79,7 +79,7 @@ __visual studio 2017, cmake, freeGLUT__
 	0 & 0 & 0 & 1 \\
 \end{bmatrix} \tag{2-1}$$  
 	类似的，绕着其他两个坐标轴旋转的变换矩阵也具有类似的形式。在实际应用中，我们更希望物体绕着自身的轴旋转而不是绕着世界坐标轴旋转。
-	![](/img/in-post/2019-09-29-OpenGL-Learning-Process/any-axis%20.png)  
+	![](/blog/img/in-post/2019-09-29-OpenGL-Learning-Process/any-axis%20.png)  
 	可以考虑预先进行轴旋转，使得定轴对齐世界坐标轴，使用(2-1)的矩阵进行变换后，再将物体旋转给定的角度，使得定轴回到原来的方向，这样一来即可实现绕任意的定轴旋转。 
 	预先的轴旋转由于也是绕着世界坐标轴的旋转，因此也可以使用类似形式的矩阵，而旋转的角度则要通过定轴在世界坐标轴平面的投影来计算。即有  
 	$$M=M_x(-θ_x)M_y(-θ_y)M_z(θ)M_y(θ_y)M_x(θ_x) \tag{2-2}$$  

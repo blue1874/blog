@@ -15,7 +15,7 @@ tags:
 
 Git常用工作流程  
 --------------
-<img src="/img/in-post/2019-09-27-Git-Tutorial/git-flow.png" alt="Git工作流程图">
+<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/git-flow.png" alt="Git工作流程图">
 
 需要用到的命令  
 -------------  
@@ -52,9 +52,9 @@ Git常用工作流程
 演示
 ----
 
-<img src="/img/in-post/2019-09-27-Git-Tutorial/show-1.png">
+<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/show-1.png">
 
-<img src="/img/in-post/2019-09-27-Git-Tutorial/show-2.png">
+<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/show-2.png">
 
 [`git clone`]: https://git-scm.com/docs/git-clone "see Git docs"
 [`git add`]: https://git-scm.com/docs/git-add "see Git docs"
