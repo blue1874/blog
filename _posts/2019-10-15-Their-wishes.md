@@ -65,7 +65,7 @@ tags:
 きっと、どれだけ言っても言い尽くせない想いを、触れた熱が確かに伝えている。  
 
 
-<img src="\img\in-post\2019-10-15-Their-wishes\final.jpg">  
+<img src="../img/in-post/2019-10-15-Their-wishes/final.jpg">  
 
 我的青春结束了  
 靠着机翻看完了14卷，感觉不尽如人意。 
