@@ -56,9 +56,9 @@ __visual studio 2017, cmake, freeGLUT__
 ![](blog\img\in-post\2019-09-29-OpenGL-Learning-Process\coordinate_systems.png)  
 重点记录几个变换矩阵的推导与理解
 
-设某点$$P(x,y,z,1)$$,其中$$1$$为齐次坐标,有变换后的点$$P'^T=MP^T$$,其中$$M$$为变换矩阵。
+设某点$P(x,y,z,1)$,其中$1$为齐次坐标,有变换后的点$P'^T=MP^T$,其中$M$为变换矩阵。
 - translate 平移变换  
-	十分简单,对于给定的平移矢量$$v=(a,b,c)$$我们可以生成如下的变换矩阵  
+	十分简单,对于给定的平移矢量$v=(a,b,c)$我们可以生成如下的变换矩阵  
 	$$M = \begin{bmatrix}
 	1 & 0 & 0 & a \\
 	0 & 1 & 0 & b \\
