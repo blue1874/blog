@@ -4,7 +4,7 @@ title: "Git Tutorial"
 subtitle: "最简单的Git使用"
 date: 2019-09-27 19:53:00
 author: "Loniclue"
-header-img: "img/in-post/2019-09-27-Git-Tutorial/Git.jpg"
+header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk44nvzl8j31hc0u045a.jpg"
 catalog: true
 tags: 
   - Git
@@ -15,7 +15,7 @@ tags:
 
 Git常用工作流程  
 --------------
-<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/git-flow.png" alt="Git工作流程图">
+![git flow](http://ww1.sinaimg.cn/large/0071Svkply1gkk44nv9xoj30sc0fdwez.jpg)
 
 需要用到的命令  
 -------------  
@@ -48,13 +48,6 @@ Git常用工作流程
 
 - [`git reset`][] 回退版本。`git reset --hard HEAD`回退上次commit后的版本，`HEAD^`上上次版本，以此类推。`git reset --hard commit_id`，回退到该版本号的版本。使用`git log`查看版本号  
   
-
-演示
-----
-
-<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/show-1.png">
-
-<img src="/blog/img/in-post/2019-09-27-Git-Tutorial/show-2.png">
 
 [`git clone`]: https://git-scm.com/docs/git-clone "see Git docs"
 [`git add`]: https://git-scm.com/docs/git-add "see Git docs"

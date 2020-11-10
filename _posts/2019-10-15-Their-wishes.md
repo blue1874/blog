@@ -4,7 +4,7 @@ title: "Their wishes"
 subtitle: "不说出口也能理解、弃之不顾也不会崩坏"
 date: 2019-10-15 18:00:00 Asia/Shanghai
 author: "Loniclue"
-header-img: "img/in-post/2019-10-15-Their-wishes/header.jpeg"
+header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk44fbojpj314p1kwdxu.jpg"
 catalog: true
 tags: 
   - 轻小说
@@ -65,7 +65,7 @@ tags:
 きっと、どれだけ言っても言い尽くせない想いを、触れた熱が確かに伝えている。  
 
 
-<img src="/blog/img/in-post/2019-10-15-Their-wishes/final.jpg">  
+![final](http://ww1.sinaimg.cn/large/0071Svkply1gkk44f7pu7j30v418gdma.jpg)
 
 我的青春结束了  
 靠着机翻看完了14卷，感觉不尽如人意。 

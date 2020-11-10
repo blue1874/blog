@@ -9,11 +9,10 @@
 ## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
 
 网站部署环境搭建
-vs code
-git bash 
-node.js npm
-js dependencies : npm install
-ruby 
-python
-bundler : gem install bundler
-jekyll : bundle install
+vs code git bash 
+node.js npm  
+js dependencies : npm install  
+ruby   
+python  
+bundler : gem install bundler  
+jekyll : bundle install  
