@@ -147,7 +147,7 @@ article {
 }
 blockquote {
     color: gray;
-    font-style: italic;
+    /* font-style: italic; */
     font-size: .95em;
     margin: 20px 0 20px;
 }
@@ -325,23 +325,23 @@ pre code {
     line-height: 1.7;
 }
 .navbar-custom .navbar-brand {
-    font-weight: 800;
-    color: #fff;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
     height: 56px;
     line-height: 25px;
 }
 .navbar-custom .navbar-brand:hover {
-    color: rgba(255, 255, 255, .8);
+    color: rgba(255, 255, 255, 0.8)
 }
 .navbar-custom .nav li a {
     text-transform: uppercase;
     font-size: 12px;
     line-height: 20px;
-    font-weight: 800;
+    font-weight: 700;
     letter-spacing: 1px;
 }
 .navbar-custom .nav li a:active {
-    background: rgba(0, 0, 0, .12);
+    background: rgba(255, 255, 255, 0.12);
 }
 @media only screen and (min-width:768px) {
     .navbar-custom {
@@ -352,15 +352,15 @@ pre code {
     font-size: 20px;
 }
 .navbar-custom .navbar-brand {
-    color: #fff;
+    color: rgb(255, 255, 255);
     padding: 20px;
     line-height: 20px;
 }
 .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
-    color: rgba(255, 255, 255, .8);
+    color: rgba(255, 255, 255, 0.8);
 }
 .navbar-custom .nav li a {
-    color: #fff;
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
@@ -519,7 +519,7 @@ pre code {
     font-family: Lora, 'Times New Roman', serif;
     color: gray;
     font-size: 16px;
-    font-style: italic;
+    /* font-style: italic; */
     margin-top: 0;
 }
 .post-preview>.post-meta>a {
@@ -544,7 +544,7 @@ pre code {
 }
 }.post-content-preview {
     font-size: 13px;
-    font-style: italic;
+    /* font-style: italic; */
     color: #a3a3a3;
 }
 .post-content-preview:hover {

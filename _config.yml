@@ -1,7 +1,7 @@
 # Site settings
 title: Loniclue Blog
 SEOTitle: 布鲁博客 | Loniclue Blog
-header-img: http://ww1.sinaimg.cn/large/0071Svkply1gkk4hf1hb7j31gs0o07bv.jpg
+header-img: http://ww1.sinaimg.cn/large/0071Svkply1gkms9iruq1j30xc0iskgc.jpg
 email: bluelizhijian@gmail.com
 description: "软工在读本科生，泛ACG爱好者，游戏宅，图形编程"
 keyword: ""
@@ -32,6 +32,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
+# ---original
 plugins: [jekyll-paginate]
 
 
