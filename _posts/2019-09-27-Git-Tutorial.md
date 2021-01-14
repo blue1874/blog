@@ -5,10 +5,10 @@ subtitle: "最简单的Git使用"
 date: 2019-09-27 19:53:00
 author: "Loniclue"
 header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk44nvzl8j31hc0u045a.jpg"
+header-mask: 0.3
 catalog: true
 tags: 
   - Git
-  - Git Workflow
   - Tutorial
 ---
 

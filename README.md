@@ -14,4 +14,4 @@ vscode wsl
 ruby(including gem) python  
 bundler : gem install bundler  
 jekyll : bundle install  
-bundle exec jekyll serve
+bundle exec jekyll serve --force_polling

@@ -5,6 +5,7 @@ subtitle: "学习笔记"
 date: 2019-09-29 11:00:00
 author: "Loniclue"
 header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk44k82l7j30zk0k0ac9.jpg"
+header-mask: 0.3
 catalog: true
 tags: 
   - OpenGL

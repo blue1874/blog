@@ -5,12 +5,12 @@ subtitle: "不说出口也能理解、弃之不顾也不会崩坏"
 date: 2019-10-15 18:00:00 Asia/Shanghai
 author: "Loniclue"
 header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk44fbojpj314p1kwdxu.jpg"
+header-mask: 0.3
 catalog: true
 tags: 
   - 轻小说
   - ACG
   - 文学评论
-  - やはり俺の青春ラプコメはまちがっている
   - 我的青春恋爱物语果然有问题
 ---
 

@@ -5,11 +5,12 @@ subtitle: "看完秒五文青病又犯了"
 date: 2020-06-30 23:25:24
 author: "Loniclue"
 header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkk3v3zpo5j31hc0u8n4w.jpg"
+header-mask: 0.3
 catalog: true
 tags: 
   - Animation
   - Movie
-  - 秒速5センチメートル
+  - 秒速5厘米
   - 新海誠
 ---
 
