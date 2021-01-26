@@ -4,7 +4,7 @@ title: "随想"
 subtitle: "没事干闲得慌"
 date: 2019-12-28 18:00:00 Asia/Shanghai
 author: "Loniclue"
-header-img: "http://ww1.sinaimg.cn/large/0071Svkply1gkms9iruq1j30xc0iskgc.jpg"
+header-img: "/blog/img/5cms/5cms-header.jpg"
 catalog: true
 tags: 
   - 日常
